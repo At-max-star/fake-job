@@ -2,9 +2,10 @@
 export type Article = {
     articleId: number;
     userId: number;
+    companyName: string;
     title: string;
     salary: string;
-    description: description;
+    description: description[];
     review: number;
 }
 
