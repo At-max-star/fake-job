@@ -1,6 +1,7 @@
 import Link from "next/link"
 
 const Header = () => {
+  
   return (
     <div className='flex justify-end bg-green-400 space-x-10 pe-12 py-4'>
 
